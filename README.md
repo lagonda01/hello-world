@@ -1,4 +1,4 @@
 # hello-world
 My first project
 
-HEy,  This are my new edits.
+Hey,  This are my new edits.
